@@ -1,48 +1,32 @@
-## Developer Portfolio Landing Page Template
+# Diamond Sanford
 
-### Introduction
+## Welcome
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Thank you for looking over my coding works. Here, you will find several applications created by me using C# in Visual Studio. Coding is my ultimate passion and I truly enjoy creating new applications. I have been working in an accelerated education for the past two years and these are the projects I have worked on independently. Please enjoy this repo and look for more to come.
 
-<img src="images/demo.gif?raw=true"/>
+## Projects
+Here's a list of the projects included in this repo with descriptions:
 
-### Installation
+### ZooKeeper App
+*	This program allows the user to select from a list of animals and interact with them
+* 	The animals are categorized as trainable and nontrainable and have functions based on those traits
+*  This program focuses on creating interfaces and utilizing resusable code
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+### Find The Errors
+* 	This was an exercise where the objective was to fix all errors within the code so that there was a specified outcome
+*  The errors included both syntax and logical errors
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+### GameConsole
+* This application allows the user to select and play games listed in a menu
+* The games each have their own functionality once selected by the user
+* This application focuses on creating classes 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Employee Tracker App
+* This is a program that tracks employees for an employer
+* Employees are categorized by rate of pay and positions held
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
+## Conclusion
+While there are many other projects that I have completed, these are the most complex and showcase my best skills. I look forward to expanding my knowledge as I grow within my career.
 
 ### References
 
