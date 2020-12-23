@@ -2,30 +2,21 @@
 
 ---
 
-### Category Name 1 
+[ZooKeeper App](/sample_page)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![Screen-Shot-2020-12-22-at-3-55-11-PM.png](https://i.postimg.cc/Gh1WrYwC/Screen-Shot-2020-12-22-at-3-55-11-PM.png)](https://postimg.cc/LhNC3J8C)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Find The Errors](/pdf/sample_presentation.pdf)
+[![Screen-Shot-2020-12-22-at-4-00-05-PM.png](https://i.postimg.cc/RCtJY3zf/Screen-Shot-2020-12-22-at-4-00-05-PM.png)](https://postimg.cc/Wt24F1zb)
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Game Console App](http://example.com/)
+[![Screen-Shot-2020-12-22-at-3-50-55-PM.png](https://i.postimg.cc/9Q7kRY30/Screen-Shot-2020-12-22-at-3-50-55-PM.png)](https://postimg.cc/rDqj7Ww2)
 
 ---
+[Employee Tracker App](http://example.com/)
+[![Screen-Shot-2020-12-22-at-3-52-07-PM.png](https://i.postimg.cc/hvYChfpV/Screen-Shot-2020-12-22-at-3-52-07-PM.png)](https://postimg.cc/RJc1DVr0)
 
 
 
