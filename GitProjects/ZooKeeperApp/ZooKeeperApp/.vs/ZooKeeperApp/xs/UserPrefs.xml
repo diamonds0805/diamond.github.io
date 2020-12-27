@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3AB8F9BD-58D9-4497-A026-10E8506F5FC9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Monkey.cs">
+    <Files>
+      <File FileName="ZooKeeperApp.cs" Line="1" Column="1" />
+      <File FileName="ITrainable.cs" Line="1" Column="1" />
+      <File FileName="Monkey.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ZooKeeperApp" expanded="True">
+            <Node name="ZooKeeperApp" expanded="True">
+              <Node name="Monkey.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ZooKeeperApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

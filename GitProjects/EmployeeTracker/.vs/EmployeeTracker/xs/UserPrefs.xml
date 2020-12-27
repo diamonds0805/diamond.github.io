@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D2474F8D-6D5A-4E00-AC06-73F80AC18723}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeTracker/Salaried.cs">
+    <Files>
+      <File FileName="EmployeeTracker/Application.cs" Line="132" Column="18" />
+      <File FileName="EmployeeTracker/EmployeeRecords_Fulltime.txt" Line="4" Column="1" NotebookId="1" />
+      <File FileName="EmployeeTracker/Employee.cs" NotebookId="1" />
+      <File FileName="EmployeeTracker/Hourly.cs" NotebookId="1" />
+      <File FileName="EmployeeTracker/FullTime.cs" NotebookId="1" />
+      <File FileName="EmployeeTracker/PartTime.cs" NotebookId="1" />
+      <File FileName="EmployeeTracker/Salaried.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="EmployeeTracker/Manager.cs" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeTracker" expanded="True">
+            <Node name="EmployeeTracker" expanded="True">
+              <Node name="Salaried.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EmployeeTracker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

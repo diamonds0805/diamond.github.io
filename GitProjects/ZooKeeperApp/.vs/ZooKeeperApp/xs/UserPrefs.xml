@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{35B09627-450E-474D-98F0-D106558EA590}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZooKeeperApp/Monkey.cs">
+    <Files>
+      <File FileName="ZooKeeperApp/ZooKeeperApp.cs" Line="162" Column="44" />
+      <File FileName="ZooKeeperApp/ITrainable.cs" Line="13" Column="21" NotebookId="1" />
+      <File FileName="ZooKeeperApp/Animal.cs" NotebookId="1" />
+      <File FileName="ZooKeeperApp/Monkey.cs" Line="26" Column="63" NotebookId="1" />
+      <File FileName="ZooKeeperApp/Alligator.cs" NotebookId="1" />
+      <File FileName="ZooKeeperApp/Giraffe.cs" NotebookId="1" />
+      <File FileName="ZooKeeperApp/Elephant.cs" NotebookId="1" />
+      <File FileName="ZooKeeperApp/Eagle.cs" NotebookId="1" />
+      <File FileName="ZooKeeperApp/Ostrich.cs" NotebookId="1" />
+      <File FileName="ZooKeeperApp/Menu.cs" NotebookId="1" />
+      <File FileName="ZooKeeperApp/UI.cs" NotebookId="1" />
+      <File FileName="ZooKeeperApp/Validation.cs" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ZooKeeperApp" expanded="True">
+            <Node name="ZooKeeperApp" expanded="True">
+              <Node name="Monkey.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ZooKeeperApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

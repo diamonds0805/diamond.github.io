@@ -1,0 +1,13 @@
+/Users/diamondtillman/Desktop/FindErrorsClasses/FindErrorsClasses/bin/Debug/FindErrorsClasses.exe.config
+/Users/diamondtillman/Desktop/FindErrorsClasses/FindErrorsClasses/bin/Debug/FindErrorsClasses.exe
+/Users/diamondtillman/Desktop/FindErrorsClasses/FindErrorsClasses/bin/Debug/FindErrorsClasses.pdb
+/Users/diamondtillman/Desktop/FindErrorsClasses/FindErrorsClasses/obj/Debug/FindErrorsClasses.csprojAssemblyReference.cache
+/Users/diamondtillman/Desktop/FindErrorsClasses/FindErrorsClasses/obj/Debug/FindErrorsClasses.exe
+/Users/diamondtillman/Desktop/FindErrorsClasses/FindErrorsClasses/obj/Debug/FindErrorsClasses.pdb
+/Users/diamondtillman/Desktop/DVPClassFiles/SanfordDiamond_FindTheErrors/FindErrorsClasses/bin/Debug/FindErrorsClasses.exe.config
+/Users/diamondtillman/Desktop/DVPClassFiles/SanfordDiamond_FindTheErrors/FindErrorsClasses/bin/Debug/FindErrorsClasses.exe
+/Users/diamondtillman/Desktop/DVPClassFiles/SanfordDiamond_FindTheErrors/FindErrorsClasses/bin/Debug/FindErrorsClasses.pdb
+/Users/diamondtillman/Desktop/DVPClassFiles/SanfordDiamond_FindTheErrors/FindErrorsClasses/obj/Debug/FindErrorsClasses.csprojAssemblyReference.cache
+/Users/diamondtillman/Desktop/DVPClassFiles/SanfordDiamond_FindTheErrors/FindErrorsClasses/obj/Debug/FindErrorsClasses.csproj.CoreCompileInputs.cache
+/Users/diamondtillman/Desktop/DVPClassFiles/SanfordDiamond_FindTheErrors/FindErrorsClasses/obj/Debug/FindErrorsClasses.exe
+/Users/diamondtillman/Desktop/DVPClassFiles/SanfordDiamond_FindTheErrors/FindErrorsClasses/obj/Debug/FindErrorsClasses.pdb
