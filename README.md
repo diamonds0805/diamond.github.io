@@ -7,21 +7,21 @@ Thank you for looking over my coding works. Here, you will find several applicat
 ## Projects
 Here's a list of the projects included in this repo with descriptions:
 
-### [ZooKeeper App
+### [ZooKeeper App](https://github.com/diamonds0805/diamond.github.io/tree/master/GitProjects/ZooKeeperApp)
 *	This program allows the user to select from a list of animals and interact with them
 * 	The animals are categorized as trainable and nontrainable and have functions based on those traits
 *  This program focuses on creating interfaces and utilizing resusable code
 
-### Find The Errors
+### [Find The Errors](https://github.com/diamonds0805/diamond.github.io/tree/master/GitProjects/SanfordDiamond_FindTheErrors)
 * 	This was an exercise where the objective was to fix all errors within the code so that there was a specified outcome
 *  The errors included both syntax and logical errors
 
-### GameConsole
+### [GameConsole](https://github.com/diamonds0805/diamond.github.io/tree/master/GitProjects/GameConsole-3)
 * This application allows the user to select and play games listed in a menu
 * The games each have their own functionality once selected by the user
 * This application focuses on creating classes 
 
-### [Employee Tracker App]](https://github.com/diamonds0805/diamond.github.io/tree/master/GitProjects/EmployeeTracker)
+### [Employee Tracker App](https://github.com/diamonds0805/diamond.github.io/tree/master/GitProjects/EmployeeTracker)
 * This is a program that tracks employees for an employer
 * Employees are categorized by rate of pay and positions held
 
