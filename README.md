@@ -7,7 +7,7 @@ Thank you for looking over my coding works. Here, you will find several applicat
 ## Projects
 Here's a list of the projects included in this repo with descriptions:
 
-### [!ZooKeeper App](https://github.com/diamonds0805/diamond.github.io/tree/master/GitProjects/EmployeeTracker)
+### [ZooKeeper App
 *	This program allows the user to select from a list of animals and interact with them
 * 	The animals are categorized as trainable and nontrainable and have functions based on those traits
 *  This program focuses on creating interfaces and utilizing resusable code
@@ -21,7 +21,7 @@ Here's a list of the projects included in this repo with descriptions:
 * The games each have their own functionality once selected by the user
 * This application focuses on creating classes 
 
-### Employee Tracker App
+### [Employee Tracker App]](https://github.com/diamonds0805/diamond.github.io/tree/master/GitProjects/EmployeeTracker)
 * This is a program that tracks employees for an employer
 * Employees are categorized by rate of pay and positions held
 
